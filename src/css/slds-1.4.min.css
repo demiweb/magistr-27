@@ -97,6 +97,10 @@
 
 .t-slds__item {
     float: left;
+
+}
+
+.t726 .t-slds__item {
     min-height: 380px;
 }
 
